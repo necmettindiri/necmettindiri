@@ -7,7 +7,7 @@
 - 🌱 I want to learn software
 - 🌱 But I don't know how can I learn and where am I starting?
 - 🌱 and what am I first step for begining? 
-- 📫 How to reach me = necmettindiri@hotmail.com
+- 📫 to reach me necmettindiri@hotmail.com
 
 <!---
 necmettindiri/necmettindiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
